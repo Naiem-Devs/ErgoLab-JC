@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'FC Iconic';
+    src: url('../fonts/FCIconicBold.woff2') format('woff2'),
+        url('../fonts/FCIconicBold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Iconic';
+    src: url('../fonts/FCIconicBoldItalic.woff2') format('woff2'),
+        url('../fonts/FCIconicBoldItalic.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Iconic';
+    src: url('../fonts/FCIconicBoldItalic.woff2') format('woff2'),
+        url('../fonts/FCIconicBoldItalic.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Iconic';
+    src: url('../fonts/FCIconicBold.woff2') format('woff2'),
+        url('../fonts/FCIconicBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Iconic';
+    src: url('../fonts/FCIconicItalic.woff2') format('woff2'),
+        url('../fonts/FCIconicItalic.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Iconic';
+    src: url('../fonts/FCIconicRegular.woff2') format('woff2'),
+        url('../fonts/FCIconicRegular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Iconic';
+    src: url('../fonts/FCIconicItalic.woff2') format('woff2'),
+        url('../fonts/FCIconicItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Iconic';
+    src: url('../fonts/FCIconicRegular.woff2') format('woff2'),
+        url('../fonts/FCIconicRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
